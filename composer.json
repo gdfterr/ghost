@@ -1,0 +1,20 @@
+{
+    "name": "amctv-net/ghost-adventures-season-18-episode 1-tv-streaming",
+    "description": "Watch Ghost Adventures Season 18 Episode 1 Online for Free Putlocker S18E01 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Ghost Adventures Season 18 Episode 1 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/kYWy122f4v",
+            "homepage": "https://t.co/kYWy122f4v",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
